@@ -1,0 +1,12 @@
+Helios Components GmbH
+Stuttgart, Germany
+
+Rechnung Nr: HC-7781
+Datum: 2024-04-08
+
+Description                       Qty    Unit Price   Line Total
+Aluminium extrusion profile       50     12.40        620.00
+Stainless steel hex bolts M8      500    0.18         90.00
+Heat-resistant gasket sheet 1m2   8      35.00        280.00
+
+Total Amount: EUR 990.00

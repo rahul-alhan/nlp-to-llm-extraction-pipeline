@@ -1,0 +1,12 @@
+From Bharat Tools Corp
+
+Invoice # BTC/2024/0193
+Dated: 22/05/2024
+
+Items supplied
+--------------
+Description                    Qty    Unit Price   Line Total
+Carbide drill bits 6mm         200    1.10         220.00
+Industrial grade lubricant 5L  10     22.00        220.00
+
+GRAND TOTAL: INR 440.00

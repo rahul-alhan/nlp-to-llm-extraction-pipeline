@@ -1,0 +1,35 @@
+[
+  {
+    "doc": "data/samples/invoice_001.txt",
+    "ground_truth": {
+      "supplier_name": "Acme Industrial Pvt Ltd",
+      "invoice_number": "INV-2024-0042",
+      "invoice_date": "2024-03-12",
+      "total_amount": 863.76,
+      "currency": "EUR",
+      "n_line_items": 3
+    }
+  },
+  {
+    "doc": "data/samples/invoice_002.txt",
+    "ground_truth": {
+      "supplier_name": "Helios Components GmbH",
+      "invoice_number": "HC-7781",
+      "invoice_date": "2024-04-08",
+      "total_amount": 990.00,
+      "currency": "EUR",
+      "n_line_items": 3
+    }
+  },
+  {
+    "doc": "data/samples/invoice_003.txt",
+    "ground_truth": {
+      "supplier_name": "Bharat Tools Corp",
+      "invoice_number": "BTC/2024/0193",
+      "invoice_date": "2024-05-22",
+      "total_amount": 440.00,
+      "currency": "INR",
+      "n_line_items": 2
+    }
+  }
+]

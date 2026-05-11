@@ -1,0 +1,19 @@
+Acme Industrial Pvt Ltd
+123 Brookfield Road, Bangalore 560037
+
+Invoice No: INV-2024-0042
+Invoice Date: 12 March 2024
+
+Bill To: Limendo Operations
+Bill Address: Munich, DE
+
+Description                    Qty    Unit Price   Line Total
+Stainless steel fasteners      120    0.45         54.00
+Industrial PVC tubing 2m       40     3.20         128.00
+Pneumatic actuator XR-7        2      275.00       550.00
+
+Subtotal: 732.00
+Tax (18%): 131.76
+Total Amount: EUR 863.76
+
+Payment terms: Net 30
