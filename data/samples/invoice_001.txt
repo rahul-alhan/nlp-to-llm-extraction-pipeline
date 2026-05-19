@@ -4,7 +4,7 @@ Acme Industrial Pvt Ltd
 Invoice No: INV-2024-0042
 Invoice Date: 12 March 2024
 
-Bill To: Limendo Operations
+Bill To: Acme Operations GmbH
 Bill Address: Munich, DE
 
 Description                    Qty    Unit Price   Line Total

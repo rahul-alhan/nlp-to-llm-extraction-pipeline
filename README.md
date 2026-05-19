@@ -2,7 +2,7 @@
 
 Demonstrates the **three-phase evolution** of a structured-extraction pipeline for supplier documents — from rule-based NER through to LLM-with-schema-enforcement. Each phase is runnable; the eval harness compares them head-to-head on the same dataset.
 
-> Mirrors the production NLP→LLM pipeline I built at Limendo (2022–2025) that eliminated ~200 weekly manual data-entry tasks.
+> Mirrors a production NLP→LLM pipeline I built in a prior role (2022–2025) that eliminated ~200 weekly manual data-entry tasks.
 
 ---
 
