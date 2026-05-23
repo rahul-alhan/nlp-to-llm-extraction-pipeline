@@ -4,7 +4,7 @@ from __future__ import annotations
 import re
 from datetime import datetime
 
-INVOICE_NUM = re.compile(r"Invoice\s*(?:No\.?|Number|#)\s*[:\-]?\s*([A-Z0-9\-]+)", re.I)
+INVOICE_NUM = re.compile(r"Invoice\s*(?:No\.?|Number|#)\s*[:\-]?\s*([A-Z0-9\-/]+)", re.I)
 DATE_PATTERNS = [
     re.compile(r"\b(\d{4}-\d{2}-\d{2})\b"),
     re.compile(r"\b(\d{2}/\d{2}/\d{4})\b"),
